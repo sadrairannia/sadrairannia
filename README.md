@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sadra 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadrairannia&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadrairannia)
 
 
 <!--
