@@ -1,4 +1,18 @@
-### Hi there 👋, I'm Sadra 
+### My name is Sadra 👋
+
+I am undergraduate student studying mechanical and aerospace engineering, with a strong passion for engineering. I have experience in full-stack development using various programming languages. 
+
+My Programming Skills:
+
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+[![Generic badge](https://img.shields.io/badge/MATLAB-R2024b-BLUE.svg)](https://shields.io/)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadrairannia)
 
