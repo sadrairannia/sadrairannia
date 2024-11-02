@@ -2,7 +2,7 @@
 
 I am undergraduate student studying mechanical and aerospace engineering, with a strong passion for engineering. I have experience in full-stack development using various programming languages. 
 
-My Programming Skills:
+### My Programming Skills:
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 [![Generic badge](https://img.shields.io/badge/MATLAB-R2024b-BLUE.svg)](https://shields.io/)
@@ -11,7 +11,12 @@ My Programming Skills:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
+### Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadrairannia&theme=chartreuse-dark&layout=compact)
+
+</br>
+</br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadrairannia)
